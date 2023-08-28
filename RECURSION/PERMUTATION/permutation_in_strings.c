@@ -14,6 +14,18 @@ bca
 cba
 cab
 
+
+diagram :
+
+                   abc
+               /    |    \ 
+              /     |      \
+            abc    bac      cba
+           / \     / \      / \
+        abc  acb  bac  bca  cba cab
+ 
+(i have given the image for reference)
+
 the formula is :
 
 the input of a string length is 3
